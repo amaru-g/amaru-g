@@ -8,6 +8,11 @@ You can call me Amaru. I am a 10+ experience engineer in the energy domain. I am
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/) 
 -->
 ## Langagues I Speak
+- English
+- Spanish
+- Norwegian
+- French
+- Portuguese
 
 
 ## ⚡ Technologies
