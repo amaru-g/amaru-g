@@ -1,4 +1,4 @@
-### Hello World! 👋
+## Hello World! 👋
 
 You can call me Amaru. I am a 10+ experience engineer in the energy domain. I am passionate about technology and develop my own tools. Feel free contact me here:
 
